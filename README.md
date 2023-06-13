@@ -1,2 +1,6 @@
-# announcements
+# Hewol Announcements
 Here we make announcements using GitHub Markdown files...
+
+Announcements Links:
+
+None...
