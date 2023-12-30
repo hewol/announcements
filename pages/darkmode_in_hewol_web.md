@@ -1,5 +1,6 @@
+<i class="fa-solid fa-house"></i> [Home](./)
 # Experimenting with dark mode in hewol website
-### Post written by @XanuduBuster and project started by @MaxomiYT
+#### XanuduBuster - 16/6/2023
 
 Hello everyone! Today we are share that we are now experimenting with dark mode in hewol website, also other things to share as well!
 
@@ -24,8 +25,6 @@ This is what new one looks like:
 
 This idea was made by our new dev @MaxomiYT and he knows very well about html and css!
 It was his idea to bring dark mode to our hewol website also with some changes like change the aerOS picture
-
-###
 
 Old Website:
 ![image](https://github.com/hewol/announcements/assets/133562760/2264fc95-bf23-4ab2-9432-b8f057ae6e8c)
