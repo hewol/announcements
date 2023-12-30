@@ -1,5 +1,6 @@
+<i class="fa-solid fa-house"></i> [Home](./)
 # Introducing aerOS Server Edition
-### Written by _debarkak_
+#### debarkak - 2/7/2023
 
 Hello everyone! Its been a long time since we written a announcement in GitHub Markdown Readme... But we are here to announce the new edition of aerOS named _aerOS Server Edition_ !
 
