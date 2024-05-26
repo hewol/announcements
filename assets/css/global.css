@@ -124,7 +124,7 @@ h2 + p {
 
 img {
     width: 100%;
-    margin: 10px 0px;
+    margin: auto 0px;
 }
 
 img + em {
