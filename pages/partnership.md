@@ -4,4 +4,4 @@
 
 Hey, we have our new partnership with.. Heat Bomb Studios Projects. Thanks to them we have a access to our high performance server to perform Hewol tasks, host them, and build aerOS.
 
-![We use arch btw](https://hewol.github.io/announcements/assets/terminal.png)
+![We use arch btw](https://raw.githubusercontent.com/hewol/announcements/main/assets/img/2024/26-05-terminal.png)
