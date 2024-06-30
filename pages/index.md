@@ -2,7 +2,7 @@
 #### Hewol's announcement site, made from [gordonnl/markdown-blog-template](https://github.com/gordonnl/markdown-blog-template). <br>
 ### Latest announcements:
 
-[Migrating to HBSP<br>Hewol Team - 30/06/2024](?hbps)
+[Migrating to HBSP<br>Hewol Team - 30/06/2024](?hbsp)
 
 [Partnership with Heat Bomb Studios<br>Danek309044 - 26/5/2024](?partnership)
 
