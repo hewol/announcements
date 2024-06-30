@@ -1,7 +1,8 @@
 # <span id="primary">He</span><span id="secondary">wol</span>
 #### Hewol's announcement site, made from [gordonnl/markdown-blog-template](https://github.com/gordonnl/markdown-blog-template). <br>
 ### Latest announcements:
-[Migrating to HBPS<br>Hewol Team - 30/06/2024](?hbps)
+
+[Migrating to HBSP<br>Hewol Team - 30/06/2024](?hbps)
 
 [Partnership with Heat Bomb Studios<br>Danek309044 - 26/5/2024](?partnership)
 
