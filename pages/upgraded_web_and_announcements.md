@@ -2,7 +2,7 @@
 # Upgraded website and announcements
 #### Danek309044 - 30/12/2023
 
-Hello there! You saw that our website and annoucment site changed a lot thanks to Danek309044. Here are all the most noticible changes that happened.
+Hello there! You saw that our website and announcement site changed a lot thanks to Danek309044. Here are all the most notable changes that happened:
 
 ### Website:
 1. Dark and light mode
